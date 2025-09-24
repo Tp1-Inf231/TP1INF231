@@ -173,13 +173,15 @@ Vecteurs de test
 
 Membre Tâches principales Exercices
 
-Nongni Temgoua Channelle Gestion: programme 7,9
-Sibeufo nguembu jordanelle,: programme,6
-pola wachie Élisabeth reine  : programme, 5
-Melong stawa rosveld : programme 1 et tests 
-NGUEAGHO KRYS DE HUGO :programme 2,8,4
-NGUIMDJOU DEFORD DAINA ANASTASIe :programme 3et test 
+-Nongni Temgoua Channelle Gestion: programme 7,9
+-Sibeufo nguembu jordanelle,: programme,6
+-pola wachie Élisabeth reine  : programme, 5
+-Melong stawa rosveld : programme 1 et tests 
+-NGUEAGHO KRYS DE HUGO :programme 2,8,4
+-NGUIMDJOU DEFORD DAINA ANASTASIe :programme 3 et test 
+
 📈 Complexités algorithmiques
+
 
 Exercice Complexité temporelle Complexité spatiale
 Somme matrices O(n²) O(1)
@@ -190,7 +192,7 @@ Test tableau trié O(n) O(1)
 Médian O(n log n) O(n)
 Inversion tableau O(n) O(1)
 Produit vectoriel O(1) O(1)
-Vecteur × Matrice O(n²) O(1)
+Vecteur × Matrice O
 
 🧪 Tests et validation
 
