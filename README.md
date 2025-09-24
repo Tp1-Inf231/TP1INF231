@@ -38,11 +38,13 @@ tp_structures_donnees/
 ├── src/
 │   ├── main.c                 # Programme principal avec menu
 │   ├── matrices.c             # Opérations sur les matrices
-│   ├── matrices.h             # Headers des fonctions matrices
+│   ├── matrices.          # Headers des fonctions matrices
 │   ├── tableaux.c             # Opérations sur les tableaux
-│   ├── tableaux.h             # Headers des fonctions tableaux
+│   ├── tableaux.c
+           # Headers des fonctions tableaux
 │   ├── vecteurs.c             # Opérations vectorielles
-│   └── vecteurs.h             # Headers des fonctions vecteurs
+│   └── vecteurs.
+          # Headers des fonctions vecteurs
 │
 ├── include/                   # Headers supplémentaires
 ├── docs/                      # Documentation
