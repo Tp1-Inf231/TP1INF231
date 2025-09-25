@@ -13,7 +13,9 @@ Membres (6) :
 
 1. NONGNI TEMGOUA CHANNELLE BRYANA 
 2. NGUEAGHO KRYS DE HUGO
-3. MELONG TSAWA ROSVEL  4. SIBEUFO NGUEMBU JORDANELLE  5. POLA WACHIE ÉLISABETH REINE
+3. MELONG TSAWA ROSVEL
+4. SIBEUFO NGUEMBU JORDANELLE
+5. POLA WACHIE ÉLISABETH REINE
 6. NGUIMDJOU DEFORD DAINA ANASTASIE 
 
 ## Objectifs du TP
@@ -27,7 +29,7 @@ Ce TP a pour objectif de mettre en pratique les concepts fondamentaux de manipul
 
 ## Structure du projet
 
-```
+
 tp_structures_donnees/
 │
 ├── src/
@@ -92,16 +94,16 @@ Fichier : produitVect×matrice.c
 Fonction : produitVecteurMatrice()
 Description : Calcule le produit d'un vecteur par une matrice.
 
-🛠️ Compilation et exécution
+## 🛠️ Compilation et exécution
 
-Compilation manuelle
+### Compilation manuelle
 
 bash
 gcc  nomfichier -o executable
 
 
 
-Exécution
+### Exécution
 
 ```bash
 ./executable
