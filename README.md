@@ -32,16 +32,16 @@ Ce TP a pour objectif de mettre en pratique les concepts fondamentaux de manipul
 
 tp_structures_donnees/
 │
-├── src/
-│   ├── seq.c 
-│   ├── Produitmat.c    
-│   ├── PRODUIT vectoriel.c
-│   ├── inverse.c
-│   ├── median.c
-│   ├── produitvectxmatrice.c
-│   ├── produit.c
-│   ├── produitmat.c
-│   ├──trie.c          
+├── src/ <br>
+│   ├── seq.c <br>
+│   ├── Produitmat.c <br>   
+│   ├── PRODUIT vectoriel.c <br>
+│   ├── inverse.c <br>
+│   ├── median.c <br>
+│   ├── produitvectxmatrice.c <br>
+│   ├── produit.c <br>
+│   ├── produitmat.c <br>
+│   ├──trie.c <br>         
 
 ## Exercices implémentés
 
