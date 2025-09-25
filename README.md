@@ -117,7 +117,7 @@ gcc  nomfichier -o executable
 Membre Tâches principales Exercices
 
 -NONGNI TEMGOUA CHANNELLE BRYANA: programme 7,9
--SIBEUFO NGUEMBU JORDANELLE : programme 6,3 et test
+-SIBEUFO NGUEMBU JORDANELLE : programme 6,3 
 -POLA WACHIE ÉLISABETH REINE  : programme 5 et test
 -MELONG TSAWA ROSVEL: programme 1 et tests 
 -NGUEAGHO KRYS DE HUGO :programme 2,8
