@@ -47,27 +47,28 @@ tp_structures_donnees/
 
 **1. Somme de matrices**
 
-Fichier : addition_matrice.c  Description : Calcule la somme de deux matrices de mêmes dimensions.
+Fichier : addition_matrice.c  /n Description : Calcule la somme de deux matrices de mêmes dimensions.
 
 2. Produit de matrices
 
-Fichier : Produitmat.c  Description : Calcule le produit de deux matrices compatibles c'est-à-dire dont le nombre de colonnes de la premiere matrice est egale au nombe de ligne de la deuxieme
+Fichier : Produitmat.c  /n
+Description : Calcule le produit de deux matrices compatibles c'est-à-dire dont le nombre de colonnes de la premiere matrice est egale au nombe de ligne de la deuxieme
 
 3. Recherche séquentielle
 
-Fichier : seq.c
+Fichier : seq.c /n
 Description : Recherche un élément dans un tableau non trié.
 
 4. Multiplication 
 
-Fichier : tableaux.c
+Fichier : tableaux.c /n
 Fonction : multiplicationAddition()
 Description : Implémente la multiplication en utilisant uniquement l'addition.
 
 5. Test de tableau trié
 
-Fichier : tableaux.c
-Fonction : estTableauTrie()
+Fichier : tableaux.c /n
+Fonction : estTableauTrie() /n
 Description : Vérifie si un tableau est trié par ordre croissant ou décroissant selon le choix de l'utilisateur 
 
 6. Médian d'un tableau
