@@ -34,7 +34,7 @@ tp_structures_donnees/
 │
 ├── src/ <br>
 │   ├── seq.c <br>
-│   ├── Produitmat.c <br>   
+│   ├── sommesmat.c <br>   
 │   ├── PRODUIT vectoriel.c <br>
 │   ├── inverse.c <br>
 │   ├── median.c <br>
@@ -123,20 +123,6 @@ Membre Tâches principales Exercices
 -NGUEAGHO KRYS DE HUGO :programme 2,8
 -NGUIMDJOU DEFORD DAINA ANASTASIE :programme 4 et test 
 
-## 📈 Complexités algorithmiques
-
-
-Exercice Complexité temporelle Complexité spatiale
-
-. Somme matrices O(n²) O(1)
-. Produit matrices O(n³) O(1)
-. Recherche séquentielle O(n) O(1)
-. Multiplication addition O(b) O(1)
-. Test tableau trié O(n) O(1)
-. Médian O(n log n) O(n)
-. Inversion tableau O(n) O(1)
-. Produit vectoriel O(1) O(1)
-. Vecteur × Matrice O
 
 
 📚 Bibliographie et références
@@ -154,7 +140,7 @@ Exercice Complexité temporelle Complexité spatiale
 
 
 
-## Responsable matière : PR Metatagia
+## Responsable matière : PR MELATAGiA
 
 
 ### Date de réalisation : [22 septembre2025]
