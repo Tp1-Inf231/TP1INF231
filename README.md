@@ -115,12 +115,12 @@ gcc  nomfichier -o executable
 
 Membre Tâches principales Exercices
 
--NONGNI TEMGOUA CHANNELLE BRYANA: programme 7,9,5
--SIBEUFO NGUEMBU JORDANELLE : programme 6 et test
+-NONGNI TEMGOUA CHANNELLE BRYANA: programme 7,9
+-SIBEUFO NGUEMBU JORDANELLE : programme 6,3 et test
 -POLA WACHIE ÉLISABETH REINE  : programme 5 et test
 -MELONG TSAWA ROSVEL: programme 1 et tests 
--NGUEAGHO KRYS DE HUGO :programme 2,8,4
--NGUIMDJOU DEFORD DAINA ANASTASIE :programme 3 et test 
+-NGUEAGHO KRYS DE HUGO :programme 2,8
+-NGUIMDJOU DEFORD DAINA ANASTASIE :programme 4 et test 
 
 ## 📈 Complexités algorithmiques
 
