@@ -4,7 +4,7 @@
 
 ## Informations générales
 
-Matière : Structures de Données II  Code : INF 231_EC2  Responsable : PR Metatagia  Type : Travaux Pratiques en groupe
+Matière : Structures de Données II  Code : INF 231_EC2  Responsable : PR Melatagia  Type : Travaux Pratiques en groupe
 
 👥 Composition du groupe
 
@@ -109,9 +109,17 @@ gcc  nomfichier -o executable
 ```bash
 ./executable
 ```
+Calcul des complexité 
 
-
-
+Somme matrices O(n²) O(1)
+Produit matrices O(n³) O(1)
+Recherche séquentielle O(n) O(1)
+Multiplication addition O(b) O(1)
+Test tableau trié O(n) O(1)
+Médian O(n log n) O(n)
+Inversion tableau O(n) O(1)
+Produit vectoriel O(1) O(1)
+Vecteur × Matrice O(n²) O(1)
 ## 🔧 Répartition des tâches
 
 Membre Tâches principales Exercices
@@ -159,4 +167,4 @@ Membre Tâches principales Exercices
 · Code commenté et lisible  
 · Gestion d'erreurs implémentée
 
- ### Réalisé avec ❤️ par le groupe [NUMÉRO] - INF 231_EC2
+ ### Réalisé avec ❤️ par le groupe  - INF 231_EC2
