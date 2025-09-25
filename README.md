@@ -109,26 +109,9 @@ gcc  nomfichier -o executable
 ./executable
 ```
 
-```
 
-📊 Jeux de test fournis
 
-Matrices de test
-
-· Matrices 2x2 : {{1,2},{3,4}} et {{5,6},{7,8}}
-· Matrices 3x3 : {{1,2,3},{4,5,6},{7,8,9}}
-
-Tableaux de test
-
-· Tableau trié : {1,2,3,4,5}
-· Tableau non trié : {5,2,8,1,3}
-· Tableau pour médiane : {7,3,1,9,5,2,8,4,6}
-
-Vecteurs de test
-
-· Vecteurs 3D : {1,2,3} et {4,5,6}
-
-🔧 Répartition des tâches
+## 🔧 Répartition des tâches
 
 Membre Tâches principales Exercices
 
@@ -139,7 +122,7 @@ Membre Tâches principales Exercices
 -NGUEAGHO KRYS DE HUGO :programme 2,8,4
 -NGUIMDJOU DEFORD DAINA ANASTASIE :programme 3 et test 
 
-📈 Complexités algorithmiques
+## 📈 Complexités algorithmiques
 
 
 Exercice Complexité temporelle Complexité spatiale
@@ -161,7 +144,7 @@ Vecteur × Matrice O
 · Cours INF 231_EC2 - PR Metatagia
 · Documentation GNU C Library
 
-✨ Améliorations possibles
+## ✨ Améliorations possibles
 
 · Interface graphique
 · Gestion des fichiers pour les données d'entrée
@@ -171,15 +154,21 @@ Vecteur × Matrice O
 
 ## Responsable matière : PR Metatagia
 
----
 
-Date de réalisation : [22 septembre2025]
-Dernière modification : [24 septembre 2025]
+### Date de réalisation : [22 septembre2025]
+### Dernière modification : [24 septembre 2025]
 
 
----
-  Réalisé avec ❤️ par le groupe [NUMÉRO] - INF 231_EC2
+
+ 
 
  ## Checklist de validation
 
-· Tous les exercices implémentés  · Code compilable sans erreurs  · Tests fonctionnels validés  · Répartition équitable des tâches  · Code commenté et lisible  · Gestion d'erreurs implémentée
+· Tous les exercices implémentés  
+· Code compilable sans erreurs  
+· Tests fonctionnels validés  
+· Répartition équitable des tâches  
+· Code commenté et lisible  
+· Gestion d'erreurs implémentée
+
+ ### Réalisé avec ❤️ par le groupe [NUMÉRO] - INF 231_EC2
