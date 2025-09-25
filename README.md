@@ -47,7 +47,7 @@ tp_structures_donnees/
 
 **1. Somme de matrices**
 
-Fichier : addition_matrice.c  Description : Calcule la somme de deux matrices de mêmes dimensions.
+Fichier : addition_matrice.c  /n Description : Calcule la somme de deux matrices de mêmes dimensions.
 
 2. Produit de matrices
 
