@@ -1,27 +1,22 @@
 
 
-TP de Structures de Données II - INF 231_EC2
+# TP de STRUCTURE DE DONNEES II-INF 231_EC2
 
-📋 Informations générales
+## Informations générales
 
-Matière : Structures de Données II
-Code : INF 231_EC2
-Responsable : PR Metatagia
-Type : Travaux Pratiques en groupe
+Matière : Structures de Données II  Code : INF 231_EC2  Responsable : PR Metatagia  Type : Travaux Pratiques en groupe
 
 👥 Composition du groupe
 
 Groupe de TP1 
 Membres (6) :
 
-1. Nongni Temgoua Channelle Bryana 
+1. NONGNI TEMGOUA CHANNELLE BRYANA 
 2. NGUEAGHO KRYS DE HUGO
-3. MELONG TSAWA ROSVEL
-4 Sibeufo nguembu jordanelle
-5.pola wachie Élisabeth reine
+3. MELONG TSAWA ROSVEL  4. SIBEUFO NGUEMBU JORDANELLE  5. POLA WACHIE ÉLISABETH REINE
 6. NGUIMDJOU DEFORD DAINA ANASTASIE 
 
-🎯 Objectifs du TP
+## Objectifs du TP
 
 Ce TP a pour objectif de mettre en pratique les concepts fondamentaux de manipulation de données à travers la programmation en langage C. Les compétences visées sont :
 
@@ -30,47 +25,35 @@ Ce TP a pour objectif de mettre en pratique les concepts fondamentaux de manipul
 · Gestion de la complexité algorithmique
 · Travail collaboratif en programmation
 
-📁 Structure du projet
+## Structure du projet
 
 ```
 tp_structures_donnees/
 │
 ├── src/
-│   ├── main.c                 # Programme principal avec menu
-│   ├── matrices.c             # Opérations sur les matrices
-│   ├── matrices.          # Headers des fonctions matrices
-│   ├── tableaux.c             # Opérations sur les tableaux
-│   ├── tableaux.c
-           # Headers des fonctions tableaux
-│   ├── vecteurs.c             # Opérations vectorielles
-│   └── vecteurs.
-          # Headers des fonctions vecteurs
-│
-├── include/                   # Headers supplémentaires
-├── docs/                      # Documentation
-├── tests/                     # Fichiers de test
-├── Makefile                   # Script de compilation
-└── README.md                  # Ce fichier
-```
+│   ├── seq.c 
+│   ├── Produitmat.c    
+│   ├── PRODUIT vectoriel.c
+│   ├── inverse.c
+│   ├── median.c
+│   ├── produitvectxmatrice.c
+│   ├── produit.c
+│   ├── produitmat.c
+│   ├──trie.c          
 
-📝 Exercices implémentés
+## Exercices implémentés
 
-1. Somme de matrices
+**1. Somme de matrices**
 
-Fichier : somme.c
-Fonction : sommeMatrices()
-Description : Calcule la somme de deux matrices de mêmes dimensions.
+Fichier : addition_matrice.c  Description : Calcule la somme de deux matrices de mêmes dimensions.
 
 2. Produit de matrices
 
-Fichier : produit.c
-Fonction : produitMatrices()
-Description : Calcule le produit de deux matrices compatibles.
+Fichier : Produitmat.c  Description : Calcule le produit de deux matrices compatibles c'est-à-dire dont le nombre de colonnes de la premiere matrice est egale au nombe de ligne de la deuxieme
 
 3. Recherche séquentielle
 
 Fichier : seq.c
-Fonction : rechercheSequentielle()
 Description : Recherche un élément dans un tableau non trié.
 
 4. Multiplication 
@@ -87,19 +70,19 @@ Description : Vérifie si un tableau est trié par ordre croissant.
 
 6. Médian d'un tableau
 
-Fichier : median.c
+Fichier : médian.c
 Fonction : mediane()
 Description : Calcule la valeur médiane d'un tableau.
 
 7. Inversion de tableau
 
-Fichier : inversion.c
+Fichier : inverse.c
 Fonction : inverserTableau()
 Description : Inverse l'ordre des éléments d'un tableau.
 
 8. Produit vectoriel
 
-Fichier : v.c
+Fichier :PRODUIT vectoriel.c
 Fonction : produitVectoriel()
 Description : Calcule le produit vectoriel de deux vecteurs 3D.
 
@@ -113,43 +96,17 @@ Description : Calcule le produit d'un vecteur par une matrice.
 
 Compilation manuelle
 
-```bash
-gcc -o tp src/main.c src/matrices.c src/tableaux.c src/vecteurs.c -Iinclude
-```
+bash
+gcc  nomfichier -o executable
 
-Utilisation du Makefile
 
-```bash
-make        # Compilation
-make run    # Compilation + exécution
-make clean  # Nettoyage des fichiers compilés
-make test   # Exécution des tests
-```
 
 Exécution
 
 ```bash
-./tp
+./executable
 ```
 
-🎮 Utilisation du programme
-
-Le programme propose un menu interactif :
-
-```
-=== TP STRUCTURES DE DONNEES II ===
-1. Somme de matrices
-2. Produit de matrices
-3. Recherche séquentielle
-4. Multiplication par addition
-5. Test tableau trié
-6. Médian d'un tableau
-7. Inverser un tableau
-8. Produit vectoriel
-9. Produit vecteur × matrice
-0. Quitter
-
-Votre choix : 
 ```
 
 📊 Jeux de test fournis
@@ -173,12 +130,12 @@ Vecteurs de test
 
 Membre Tâches principales Exercices
 
--Nongni Temgoua Channelle Gestion: programme 7,9
--Sibeufo nguembu jordanelle,: programme,6
--pola wachie Élisabeth reine  : programme, 5
--Melong stawa rosveld : programme 1 et tests 
+-NONGNI TEMGOUA CHANNELLE BRYANA: programme 7,9
+-SIBEUFO NGUEMBU JORDANELLE : programme 6
+-POLA WACHIE ÉLISABETH REINE  : programme 5
+-MELONG TSAWA ROSVEL: programme 1 et tests 
 -NGUEAGHO KRYS DE HUGO :programme 2,8,4
--NGUIMDJOU DEFORD DAINA ANASTASIe :programme 3 et test 
+-NGUIMDJOU DEFORD DAINA ANASTASIE :programme 3 et test 
 
 📈 Complexités algorithmiques
 
@@ -194,16 +151,6 @@ Inversion tableau O(n) O(1)
 Produit vectoriel O(1) O(1)
 Vecteur × Matrice O
 
-🧪 Tests et validation
-
-Chaque fonction inclut des tests unitaires vérifiant :
-
-· Cas normaux
-· Cas limites
-· Gestion d'erreurs
-· Validation des résultats
-
-
 
 📚 Bibliographie et références
 
@@ -217,32 +164,20 @@ Chaque fonction inclut des tests unitaires vérifiant :
 · Interface graphique
 · Gestion des fichiers pour les données d'entrée
 · Optimisation des algorithmes
-· Tests unitaires automatisés
-· Parallelisation avec OpenMP
-
-📞 Support et contact
 
 
 
-
-· Responsable matière : PR Metatagia
+## Responsable matière : PR Metatagia
 
 ---
 
-Date de réalisation : [24 septembre2025]
+Date de réalisation : [22 septembre2025]
 Dernière modification : [24 septembre 2025]
 
 
 ---
-  <em>Réalisé avec ❤️ par le groupe [NUMÉRO] - INF 231_EC2</em>
-</div>
+  Réalisé avec ❤️ par le groupe [NUMÉRO] - INF 231_EC2
 
-📋 Checklist de validation
+ ## Checklist de validation
 
-· Tous les exercices implémentés
-· Code compilable sans erreurs
-· Tests fonctionnels validés
-· Documentation complète
-· Répartition équitable des tâches
-· Code commenté et lisible
-· Gestion d'erreurs implémentée
+· Tous les exercices implémentés  · Code compilable sans erreurs  · Tests fonctionnels validés  · Répartition équitable des tâches  · Code commenté et lisible  · Gestion d'erreurs implémentée
