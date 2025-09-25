@@ -68,7 +68,7 @@ Description : Implémente la multiplication en utilisant uniquement l'addition.
 
 Fichier : tableaux.c
 Fonction : estTableauTrie()
-Description : Vérifie si un tableau est trié par ordre croissant.
+Description : Vérifie si un tableau est trié par ordre croissant ou décroissant selon le choix de l'utilisateur 
 
 6. Médian d'un tableau
 
@@ -115,9 +115,9 @@ gcc  nomfichier -o executable
 
 Membre Tâches principales Exercices
 
--NONGNI TEMGOUA CHANNELLE BRYANA: programme 7,9
--SIBEUFO NGUEMBU JORDANELLE : programme 6
--POLA WACHIE ÉLISABETH REINE  : programme 5
+-NONGNI TEMGOUA CHANNELLE BRYANA: programme 7,9,5
+-SIBEUFO NGUEMBU JORDANELLE : programme 6 et test
+-POLA WACHIE ÉLISABETH REINE  : programme 5 et test
 -MELONG TSAWA ROSVEL: programme 1 et tests 
 -NGUEAGHO KRYS DE HUGO :programme 2,8,4
 -NGUIMDJOU DEFORD DAINA ANASTASIE :programme 3 et test 
@@ -126,15 +126,16 @@ Membre Tâches principales Exercices
 
 
 Exercice Complexité temporelle Complexité spatiale
-Somme matrices O(n²) O(1)
-Produit matrices O(n³) O(1)
-Recherche séquentielle O(n) O(1)
-Multiplication addition O(b) O(1)
-Test tableau trié O(n) O(1)
-Médian O(n log n) O(n)
-Inversion tableau O(n) O(1)
-Produit vectoriel O(1) O(1)
-Vecteur × Matrice O
+
+. Somme matrices O(n²) O(1)
+. Produit matrices O(n³) O(1)
+. Recherche séquentielle O(n) O(1)
+. Multiplication addition O(b) O(1)
+. Test tableau trié O(n) O(1)
+. Médian O(n log n) O(n)
+. Inversion tableau O(n) O(1)
+. Produit vectoriel O(1) O(1)
+. Vecteur × Matrice O
 
 
 📚 Bibliographie et références
